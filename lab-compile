@@ -4,16 +4,23 @@
 		<title> 1st Quarter Laboratory Exercises </title>
 		<style>
 			body {
-				text-align:center;
+			text-align:center;
+			background-image: url("sunsetbg.jpg");
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: fixed;
+  			background-size: cover;
+			font-size: 30px;
 			}
 			a {
 				padding:20px;
 			}
 			h1 {
-				background-color: #3A52B1;
+				background-color: #FFD39D;
+				padding:20px;
 			}
 			div {
-				background-color: #a5b193;
+				background-color: #FFD39D;
 			}
 		</style>
 	</head>
@@ -21,12 +28,12 @@
 		<main>
         	<h1>1st Quarter Laboratory Exercises</h1>
 		<div>
-		<a href="">MOD2_1-Eulatriz</a>
-    	    	<a href="">MOD2_2-Eulatriz</a>
-        	<a href="">MOD2_3-Eulatriz</a>
-		<a href="">MOD2_4-Eulatriz</a>
+		<a href="file:///C:/Users/User/Downloads/hehe/mod2-1_Eulatriz.html">MOD2_1-Eulatriz</a>
+    	    	<a href="file:///C:/Users/User/Downloads/hehe/mod2-2_Eulatriz.html">MOD2_2-Eulatriz</a>
+        	<a href="file:///C:/Users/User/Downloads/hehe/mod2-3_Eulatriz_1.html">MOD2_3-Eulatriz</a>
+		<a href="file:///C:/Users/User/Downloads/hehe/mod3-1_Eulatriz.html">MOD3_1-Eulatriz</a>
 		</div>
-        	<button onclick="goBack()">Go Back</button>
     		</main>
+
 	</body>
 </html>
