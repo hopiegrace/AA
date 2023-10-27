@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> 1st Quarter Laboratory Exercises </title>
+		<style>
+			body {
+				text-align:center;
+			}
+			a {
+				padding:20px;
+			}
+			h1 {
+				background-color: #3A52B1;
+			}
+			div {
+				background-color: #a5b193;
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+        	<h1>1st Quarter Laboratory Exercises</h1>
+		<div>
+		<a href="">MOD2_1-Eulatriz</a>
+    	    	<a href="">MOD2_2-Eulatriz</a>
+        	<a href="">MOD2_3-Eulatriz</a>
+		<a href="">MOD2_4-Eulatriz</a>
+		</div>
+        	<button onclick="goBack()">Go Back</button>
+    		</main>
+	</body>
+</html>
